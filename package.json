@@ -1,0 +1,19 @@
+{
+  "name": "dx-lint",
+  "version": "0.1.0",
+  "description": "Various dx linter configs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devex-web-frontend/dx-lint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devex-web-frontend/dx-lint/issues"
+  },
+  "homepage": "https://github.com/devex-web-frontend/dx-lint#readme"
+}
