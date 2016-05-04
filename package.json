@@ -1,6 +1,6 @@
 {
   "name": "dx-lint",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Various dx linter configs",
   "main": "index.js",
   "scripts": {
