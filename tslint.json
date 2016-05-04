@@ -32,8 +32,8 @@
     "no-unused-expression": true,
     "no-use-before-declare": true,
     "no-var-keyword": true,
-    "no-var-require": true,
-    "on-line": [
+    "no-var-requires": true,
+    "one-line": [
       true,
       "check-catch",
       "check-else",
@@ -64,7 +64,7 @@
         "variable-declaration": "nospace"
       }
     ],
-    "variable-names": [
+    "variable-name": [
       true,
       "check-format",
       "allow-leading-underscore",
