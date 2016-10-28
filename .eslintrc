@@ -407,7 +407,7 @@
     "babel/generator-star-spacing": [
       2,
       {
-        "before": true,
+        "before": false,
         "after": true
       }
     ],
