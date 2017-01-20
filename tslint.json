@@ -69,7 +69,7 @@
     "typeof-compare": true,
     "use-isnan": true,
     "cyclomatic-complexity": false,
-    "eofline": true,
+    "eofline": false,
     "indent": false,
     "linebreak-style": false,
     "max-classes-per-file": false,
